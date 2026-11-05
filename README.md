@@ -30,6 +30,30 @@ With an academic background in Finance and professional experience in customer s
 
 ---
 
+## 💼 Professional Experience
+
+### Accenture
+**Process Associate**  
+17 July 2021 – 17 March 2024
+
+### Flutter Entertainment
+**Customer Support Advisor**  
+26 March 2024 – 25 September 2025
+
+### Highbrow
+**Quality Checker / Quality Analyst**  
+13 December 2025 – 10 February 2026
+
+### Revolut
+**Support Specialist**  
+16 February 2026 – 25 June 2026
+
+### Tools Used Professionally
+- **Zendesk:** Flutter Entertainment
+- **Jira:** Flutter Entertainment and Revolut
+
+---
+
 ## 🎯 Career Interests
 
 - Payments Support & Operations
