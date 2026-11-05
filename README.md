@@ -12,11 +12,11 @@
 
 ## 👩‍💻 About Me
 
-I'm an MBA Finance graduate with experience in International Customer Support, specializing in Non-Voice Operations, Email Support, and Live Chat Support.
+I'm an MBA Finance graduate with experience in International Customer Support, specializing in Non-Voice Operations, Email Support and Live Chat Support.
 
-I have experience handling customer queries through email and live chat, managing support tickets, troubleshooting customer issues, and ensuring effective communication and timely resolution.
+I have experience handling customer queries through email and live chat, managing support tickets, troubleshooting customer issues and ensuring effective communication and timely resolution.
 
-With an academic background in Finance and professional experience in customer support, I'm interested in building my career in Payments Operations, Financial Services, and Customer Experience.
+With an academic background in Finance and professional experience in customer support, I'm interested in building my career in Payments Operations, Financial Services and Customer Experience.
 
 ### What I Bring
 
@@ -110,5 +110,5 @@ Specialization: Finance
 ---
 
 <p align="center">
-  <i>Learning, building, and growing one project at a time.</i>
+  <i>Learning, building and growing one project at a time.</i>
 </p>
